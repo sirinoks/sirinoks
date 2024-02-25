@@ -21,7 +21,9 @@
 
 <br />
 
-## Large project contributions: ##
+<div align="center">
+
+## Large project contributions ##
 
 | Repo | Description | Used |
 | ----- | -------------------------------------- | -----: |
@@ -31,7 +33,7 @@
 
 <br />
 
-## Solo/small projects: ##
+## Solo/small projects ##
 
 | Repo | Description | Used |
 | ----- | -------------------------------------- | ---: |
@@ -51,3 +53,5 @@
 | [MailGunAPI](https://github.com/sirinoks/mailGunApi) | API for Mailgun | <img width="25vw" src="assets/csharp-original.svg" alt="C# logo" /> <img width="25vw" src="assets/dot-net-original.svg" alt=".NET logo" /> <img width="25vw" src="assets/javascript-original.svg" alt="JavaScript logo" /> |
 | [Layout editor](https://github.com/sirinoks/layoutEditor) | Drag and drop layout editor |  <img width="25vw" src="assets/express-original.svg" alt="Express.js logo" /> <img width="25vw" src="assets/jquery-original.svg" alt="jQuery logo" /> <img width="25vw" src="assets/json-original.svg" alt="JSON logo" /> <img width="25vw" src="assets/javascript-original.svg" alt="JavaScript logo" /> |
 </details>
+
+</div>
