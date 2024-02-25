@@ -23,7 +23,7 @@
 
 <div align="center">
 
-## Large project contributions ##
+<h2> Large project contributions </h2>
 
 | Repo | Description | Used |
 | ----- | -------------------------------------- | -----: |
@@ -31,9 +31,8 @@
 | [Telescope](https://github.com/Seneca-CDOT/telescope) | [A blog parser](https://telescope.cdot.systems/) |  <img width="25vw" src="assets/react-original.svg" alt="React logo" /> <img width="25vw" src="assets/jest-plain.svg" alt="Jest logo" /> <img width="25vw" src="assets/docker-original.svg" alt="Docker logo" /> <img width="25vw" src="assets/javascript-original.svg" alt="JavaScript logo" /> |
 | [Scuffle](https://github.com/ScuffleTV/scuffle) | A live streaming platform | <img width="25vw" src="assets/rust-original.svg" alt="Rust logo" /> <img width="25vw" src="assets/svelte-original.svg" alt="Svelte logo" /> |
 
-<br />
 
-## Solo/small projects ##
+<h2> Solo/small projects </h2>
 
 | Repo | Description | Used |
 | ----- | -------------------------------------- | ---: |
