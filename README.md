@@ -1,12 +1,6 @@
-<style>
-.devicon-devicon-plain {
-  max-width: 2em;
-}
+<img width="30%" src="assets/angular-plain.svg" />
+<img width="30%" src="assets/javascript-plain.svg" />
+<img width="30%" src="assets/vuejs-plain.svg" />
+<img width="30%" src="assets/typescript-plain.svg" />
+<img width="30%" src="assets/jest-plain.svg" />
 
-/* if you want to change the original color */
-.devicon-devicon-plain path {
-  fill: #32f27f;
-}
-</style>
-
-<img src="assets/angular-plain.svg" />
