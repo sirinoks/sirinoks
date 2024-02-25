@@ -10,16 +10,15 @@
 ---
 <div align="center">
 
-<img width="30vw" src="assets/javascript-original.svg" alt="JavaScript logo" />
-<img width="30vw" src="assets/typescript-original.svg" alt="Typescript logo" />
-<img width="30vw" src="assets/vuejs-original.svg" alt="Vuejs logo" />
-<img width="30vw" src="assets/angular-original.svg" alt="Angular logo" />
-<img width="30vw" src="assets/figma-original.svg" alt="Figma logo" />
+<img width="45vw" src="assets/javascript-original.svg" alt="JavaScript logo" />
+<img width="45vw" src="assets/typescript-original.svg" alt="Typescript logo" />
+<img width="45vw" src="assets/vuejs-original.svg" alt="Vuejs logo" />
+<img width="45vw" src="assets/angular-original.svg" alt="Angular logo" />
+<img width="45vw" src="assets/figma-original.svg" alt="Figma logo" />
 </div>
 
 ---
 
-<br />
 <br />
 
 ## Large project contributions: ##
@@ -30,6 +29,7 @@
 | [Telescope](https://github.com/Seneca-CDOT/telescope) | [A blog parser](https://telescope.cdot.systems/) |  <img width="25vw" src="assets/react-original.svg" alt="React logo" /> <img width="25vw" src="assets/jest-plain.svg" alt="Jest logo" /> <img width="25vw" src="assets/docker-original.svg" alt="Docker logo" /> <img width="25vw" src="assets/javascript-original.svg" alt="JavaScript logo" /> |
 | [Scuffle](https://github.com/ScuffleTV/scuffle) | A live streaming platform | <img width="25vw" src="assets/rust-original.svg" alt="Rust logo" /> <img width="25vw" src="assets/svelte-original.svg" alt="Svelte logo" /> |
 
+<br />
 
 ## Solo/small projects: ##
 
@@ -40,7 +40,6 @@
 | [King of the garbage hill](https://github.com/mylorik/King-of-the-Garbage-Hill) | Mafia-style game through a discord bot | <img width="25vw" src="assets/csharp-original.svg" alt="C# logo" /> <img width="25vw" src="assets/figma-original.svg" alt="Figma logo" /> <img width="25vw" src="assets/photoshop-original.svg" alt="Photoshop logo" /> |
 | [SkyClanParser](https://github.com/sirinoks/skyClanParser) | Microservice parser API for Sky2fly | <img width="25vw" src="assets/docker-original.svg" alt="Docker logo" /> <img width="25vw" src="assets/express-original.svg" alt="Express.js logo" /> <img width="25vw" src="assets/typescript-original.svg" alt="TypeScript logo" />  |
 
-<br />
 <br />
 
 <details>
