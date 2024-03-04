@@ -37,6 +37,7 @@
 
 | Repo | Description | Used |
 | ----- | -------------------------------------- | ---: |
+| [KOTGH-Front](https://github.com/sirinoks/King-of-the-garbage-hill-front) | Web version of King of the Garbage Hill | <img width="25vw" src="assets/vuejs-original.svg" alt="Vue.js logo" /> <img width="25vw" src="assets/figma-original.svg" alt="Figma logo" /> <img width="25vw" src="assets/typescript-original.svg" alt="TypeScript logo" />|
 | [SSGNode](https://github.com/sirinoks/SSGNode) | Static site generator &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; | <img width="25vw" src="assets/nodejs-original.svg" alt="Node.js logo" /> <img width="25vw" src="assets/javascript-original.svg" alt="JavaScript logo" />|
 | D2RU | [Destiny 2 community auth](https://d2lfg.ru/authorization) | <img width="25vw" src="assets/angular-original.svg" alt="Angular logo" /> <img width="25vw" src="assets/typescript-original.svg" alt="TypeScript logo" />  |
 | [King of the garbage hill](https://github.com/mylorik/King-of-the-Garbage-Hill) | Mafia-style game through a discord bot | <img width="25vw" src="assets/csharp-original.svg" alt="C# logo" /> <img width="25vw" src="assets/figma-original.svg" alt="Figma logo" /> <img width="25vw" src="assets/photoshop-original.svg" alt="Photoshop logo" /> |
